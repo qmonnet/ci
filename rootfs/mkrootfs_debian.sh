@@ -148,6 +148,7 @@ packages=(
 	keyutils
 	libcap2
 	libelf1
+	llvm-dev
 	openssl
 	strace
 	zlib1g
